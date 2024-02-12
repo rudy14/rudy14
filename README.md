@@ -47,7 +47,6 @@
 </div>
 
 
- <a href="https://github.com//rudy14/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudy14&layout=compact&theme=buefy&hide_border=true" /></a>
  
 *I'm a cyber security analyst and WordPress developer.*
 
